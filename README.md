@@ -1,0 +1,4 @@
+cpuinfo
+=======
+
+cpu used info
